@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Henrique 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamoMatheus Henrique, tenho 23 anos, sou um PCDev e sou natural de São Paulo. Atualmente, estou estudando programação com foco em Front-End. Sou apaixonado por tecnologia e um intusiasta da tecnologia assistiva.
 
